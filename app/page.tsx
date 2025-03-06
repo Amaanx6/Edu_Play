@@ -39,7 +39,7 @@ export default function Home() {
               <div className="glass-card rounded-xl p-6 animate-float">
                 <div className="aspect-video rounded-lg bg-secondary/50 overflow-hidden">
                   <img
-                    src="/placeholder.svg?height=400&width=600"
+                    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
                     alt="EduPlay Dashboard Preview"
                     className="w-full h-full object-cover"
                   />
